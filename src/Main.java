@@ -62,8 +62,8 @@ public class Main {
                 OWins++;
             }
         }
-            System.out.println("X wins" + XWins);
-            System.out.println("O wins" + OWins);
+        //    System.out.println("X wins" + XWins);
+        //    System.out.println("O wins" + OWins);
 
 
             if (XWins > OWins) {
